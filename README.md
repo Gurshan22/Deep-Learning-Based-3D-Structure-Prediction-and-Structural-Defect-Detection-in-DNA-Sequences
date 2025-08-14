@@ -1,0 +1,2 @@
+# Deep-Learning-Based-3D-Structure-Prediction-and-Structural-Defect-Detection-in-DNA-Sequences
+This research presents a novel and comprehensive deep learning framework for advanced DNA structure prediction and molecular analysis, strategically integrating multidimensional demographic variables with sequence-based genomic features to accurately predict 3D structural conformations and systematically identify critical structural defects in DNA 
